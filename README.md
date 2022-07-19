@@ -1,5 +1,5 @@
 # Look Both Ways: Self Supervising Driver Gaze Estimation and Road Scene Saliency
-[Paper](add link) | [Dataset](add link)
+[Paper](add link) | [Dataset](add link) | [Video](add link)
 
 Authors\
 [Isaac Kasahara](add link), [Simon Stent](add link), [Hyun Soo Park](add link)
