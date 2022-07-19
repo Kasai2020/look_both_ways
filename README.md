@@ -159,6 +159,15 @@ python test.py --config configs/examples/eth_xgaze.yaml --options VAL.VAL_INDICE
 ```
 
 
+## Cite
 
+```
+@inproceedings{kasahara22eccv,
+    author = {Kasahara, Isaac and Stent, Simon and Park, Hyun Soo},
+    title = {Look Both Ways: Self-Supervising Driver Gaze Estimation and Road Scene Saliency},
+    booktitle = {European Conference on Computer Vision (ECCV)},
+    year = {2022}
+}
+```
 
 
