@@ -1,0 +1,13 @@
+pytorch_mpiigaze-master/
+pl_gaze_estimation-main/experiments/eth-xgaze/
+.vscode/
+train/
+unisal-master/training_runs/
+models/
+pl_gaze_estimation-main/visualizations/
+pl_gaze_estimation-main/visualizations_sal/
+pl_gaze_estimation-main/visualizations_sal_train/
+pl_gaze_estimation-main/visualizations_self_test/
+pl_gaze_estimation-main/visualizations_self_train/
+pl_gaze_estimation-main/visualizations_self_val/
+
