@@ -4,6 +4,8 @@
 Authors\
 [Isaac Kasahara](add link), [Simon Stent](add link), [Hyun Soo Park](add link)
 
+ECCV 2022 (Oral Presentation)
+
 ![alt text](https://github.com/Kasai2020/test_read_me/blob/main/output.gif "Dataset Sample")
 
 
