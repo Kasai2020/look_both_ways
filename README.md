@@ -72,7 +72,7 @@ Credits for both can be found at the bottom of this page.
 
 - Clone this repo:
 ```bash
-git clone https://github.com/
+git clone https://github.com/Kasai2020/look_both_ways
 ```
 
 - Install dependencies:
