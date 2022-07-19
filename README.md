@@ -25,7 +25,7 @@ Authors\
 
 ### Video Summary
 
-[![Summary](https://img.youtube.com/vi/GGlABGOYtFA/default.jpg =250x250)](https://youtu.be/GGlABGOYtFA)
+[![Summary](https://img.youtube.com/vi/GGlABGOYtFA/default.jpg | width=100)](https://youtu.be/GGlABGOYtFA)
 
 ### Abstract
 
