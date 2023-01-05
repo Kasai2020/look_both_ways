@@ -1,8 +1,8 @@
 # Look Both Ways: Self Supervising Driver Gaze Estimation and Road Scene Saliency
 [Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136730128.pdf) | [Dataset](https://drive.google.com/drive/folders/1dANOjW_VXinhumYpddSsBTroYPxMc9Ut?usp=sharing) | [Video](https://youtu.be/GGlABGOYtFA)
 
-ECCV 2022 (Oral Presentation)
-[Presentation Video] (https://youtu.be/UCOPIDu4Jig)
+ECCV 2022 (Oral Presentation)\
+[Presentation Video](https://youtu.be/UCOPIDu4Jig)
 
 Authors\
 Isaac Kasahara, Simon Stent, Hyun Soo Park
